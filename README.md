@@ -1,3 +1,2 @@
 # ISTBQ Resources
-br
-## In the repository you will find public ISTBQ CTFL exam samples and resources for practice. 
+## ISTBQ CTFL exam samples(public) and resources for practice. 
